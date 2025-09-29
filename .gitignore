@@ -1,5 +1,6 @@
 node_modules/
 .env.*
 package-lock.json
+output.pdf
 app0.js
 app1.js
